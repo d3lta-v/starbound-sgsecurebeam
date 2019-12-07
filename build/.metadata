@@ -1,0 +1,10 @@
+{
+  "author" : "DeltaV Δ",
+  "description" : "A parody of the [url=https://mothership.sg/2019/05/sgsecure-funny-reviews-new/]SGSecure meme[/url], Starbound-fied. An extension on the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1859165005]original SGSecure phone mod[/url]\n\nThis uniquely Singaporean laser is emitted from an iPhone X shaped screen in the classic red, white and blue SGSecure colour scheme. Made as an inside joke that fellow Singaporean Starbounders will know.\n\nThis beam functions identically to the mining beam for mechs. If you with to propose new features (such as modified range or damage), let me know! Only spawnable through admin commands:\n\n[code]/spawnitem sgsecurebeam[/code]\n\nInspiration, Pixel Art and Animation Credits: [url=https://steamcommunity.com/profiles/76561198093964182]Reggel[/url]",
+  "friendlyName" : "SGSecure Mech Beam",
+  "link" : "steam://url/CommunityFilePage/1930824024",
+  "name" : "sgsecurebeam",
+  "steamContentId" : "1930824024",
+  "tags" : "Cheats and God Items|Vehicles and Mounts",
+  "version" : "0.1.0"
+}

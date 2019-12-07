@@ -1,0 +1,15 @@
+{
+  "itemName" : "sgsecurebeam",
+  "price" : 2349,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "tooltipKind" : "mecharm",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "sgsecurebeam.png",
+  "description" : "SGSECURE THESE MEN",
+  "shortdescription" : "Lion's Heart",
+  "itemTags" : [ ],
+
+  "mechPart" : ["arm", "sgsecurebeam"]
+}
